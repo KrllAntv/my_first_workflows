@@ -1,1 +1,1 @@
-# my_first_workflows
+[![show-directory](https://github.com/KrllAntv/my_first_workflows/actions/workflows/show-command.yml/badge.svg)](https://github.com/KrllAntv/my_first_workflows/actions/workflows/show-command.yml)
